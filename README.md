@@ -1,2 +1,2 @@
 # Morphological_Analyzer
-### python loadmodel.py
+`python loadmodel.py`
