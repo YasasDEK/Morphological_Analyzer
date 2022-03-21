@@ -176,4 +176,4 @@ def morphological_analysis():
 #       return render_template('page.html', word = word, morph = morph, result =  result)
   
 if __name__ == "__main__":
-  app.run(use_reloader = True, debug = True)
+  app.run(use_reloader = True, debug = False)
